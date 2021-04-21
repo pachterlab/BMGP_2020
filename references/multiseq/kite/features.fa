@@ -1,0 +1,450 @@
+>BC1 feature_id:BC1
+GGAGAAGA
+>BC1-0.1 feature_id:BC1
+AGAGAAGA
+>BC1-0.2 feature_id:BC1
+CGAGAAGA
+>BC1-0.3 feature_id:BC1
+TGAGAAGA
+>BC1-1.1 feature_id:BC1
+GAAGAAGA
+>BC1-1.2 feature_id:BC1
+GCAGAAGA
+>BC1-1.3 feature_id:BC1
+GTAGAAGA
+>BC1-2.1 feature_id:BC1
+GGCGAAGA
+>BC1-2.2 feature_id:BC1
+GGGGAAGA
+>BC1-2.3 feature_id:BC1
+GGTGAAGA
+>BC1-3.1 feature_id:BC1
+GGAAAAGA
+>BC1-3.2 feature_id:BC1
+GGACAAGA
+>BC1-3.3 feature_id:BC1
+GGATAAGA
+>BC1-4.1 feature_id:BC1
+GGAGCAGA
+>BC1-4.2 feature_id:BC1
+GGAGGAGA
+>BC1-4.3 feature_id:BC1
+GGAGTAGA
+>BC1-5.1 feature_id:BC1
+GGAGACGA
+>BC1-5.2 feature_id:BC1
+GGAGAGGA
+>BC1-5.3 feature_id:BC1
+GGAGATGA
+>BC1-6.1 feature_id:BC1
+GGAGAAAA
+>BC1-6.2 feature_id:BC1
+GGAGAACA
+>BC1-6.3 feature_id:BC1
+GGAGAATA
+>BC1-7.1 feature_id:BC1
+GGAGAAGC
+>BC1-7.2 feature_id:BC1
+GGAGAAGG
+>BC1-7.3 feature_id:BC1
+GGAGAAGT
+>BC2 feature_id:BC2
+CCACAATG
+>BC2-0.1 feature_id:BC2
+ACACAATG
+>BC2-0.2 feature_id:BC2
+GCACAATG
+>BC2-0.3 feature_id:BC2
+TCACAATG
+>BC2-1.1 feature_id:BC2
+CAACAATG
+>BC2-1.2 feature_id:BC2
+CGACAATG
+>BC2-1.3 feature_id:BC2
+CTACAATG
+>BC2-2.1 feature_id:BC2
+CCCCAATG
+>BC2-2.2 feature_id:BC2
+CCGCAATG
+>BC2-2.3 feature_id:BC2
+CCTCAATG
+>BC2-3.1 feature_id:BC2
+CCAAAATG
+>BC2-3.2 feature_id:BC2
+CCAGAATG
+>BC2-3.3 feature_id:BC2
+CCATAATG
+>BC2-4.1 feature_id:BC2
+CCACCATG
+>BC2-4.2 feature_id:BC2
+CCACGATG
+>BC2-4.3 feature_id:BC2
+CCACTATG
+>BC2-5.1 feature_id:BC2
+CCACACTG
+>BC2-5.2 feature_id:BC2
+CCACAGTG
+>BC2-5.3 feature_id:BC2
+CCACATTG
+>BC2-6.1 feature_id:BC2
+CCACAAAG
+>BC2-6.2 feature_id:BC2
+CCACAACG
+>BC2-6.3 feature_id:BC2
+CCACAAGG
+>BC2-7.1 feature_id:BC2
+CCACAATA
+>BC2-7.2 feature_id:BC2
+CCACAATC
+>BC2-7.3 feature_id:BC2
+CCACAATT
+>BC13 feature_id:BC13
+CCAACCGG
+>BC13-0.1 feature_id:BC13
+ACAACCGG
+>BC13-0.2 feature_id:BC13
+GCAACCGG
+>BC13-0.3 feature_id:BC13
+TCAACCGG
+>BC13-1.1 feature_id:BC13
+CAAACCGG
+>BC13-1.2 feature_id:BC13
+CGAACCGG
+>BC13-1.3 feature_id:BC13
+CTAACCGG
+>BC13-2.1 feature_id:BC13
+CCCACCGG
+>BC13-2.2 feature_id:BC13
+CCGACCGG
+>BC13-2.3 feature_id:BC13
+CCTACCGG
+>BC13-3.1 feature_id:BC13
+CCACCCGG
+>BC13-3.2 feature_id:BC13
+CCAGCCGG
+>BC13-3.3 feature_id:BC13
+CCATCCGG
+>BC13-4.1 feature_id:BC13
+CCAAACGG
+>BC13-4.2 feature_id:BC13
+CCAAGCGG
+>BC13-4.3 feature_id:BC13
+CCAATCGG
+>BC13-5.1 feature_id:BC13
+CCAACAGG
+>BC13-5.2 feature_id:BC13
+CCAACGGG
+>BC13-5.3 feature_id:BC13
+CCAACTGG
+>BC13-6.1 feature_id:BC13
+CCAACCAG
+>BC13-6.2 feature_id:BC13
+CCAACCCG
+>BC13-6.3 feature_id:BC13
+CCAACCTG
+>BC13-7.1 feature_id:BC13
+CCAACCGA
+>BC13-7.2 feature_id:BC13
+CCAACCGC
+>BC13-7.3 feature_id:BC13
+CCAACCGT
+>BC25 feature_id:BC25
+CGAAGCCC
+>BC25-0.1 feature_id:BC25
+AGAAGCCC
+>BC25-0.2 feature_id:BC25
+GGAAGCCC
+>BC25-0.3 feature_id:BC25
+TGAAGCCC
+>BC25-1.1 feature_id:BC25
+CAAAGCCC
+>BC25-1.2 feature_id:BC25
+CCAAGCCC
+>BC25-1.3 feature_id:BC25
+CTAAGCCC
+>BC25-2.1 feature_id:BC25
+CGCAGCCC
+>BC25-2.2 feature_id:BC25
+CGGAGCCC
+>BC25-2.3 feature_id:BC25
+CGTAGCCC
+>BC25-3.1 feature_id:BC25
+CGACGCCC
+>BC25-3.2 feature_id:BC25
+CGAGGCCC
+>BC25-3.3 feature_id:BC25
+CGATGCCC
+>BC25-4.1 feature_id:BC25
+CGAAACCC
+>BC25-4.2 feature_id:BC25
+CGAACCCC
+>BC25-4.3 feature_id:BC25
+CGAATCCC
+>BC25-5.1 feature_id:BC25
+CGAAGACC
+>BC25-5.2 feature_id:BC25
+CGAAGGCC
+>BC25-5.3 feature_id:BC25
+CGAAGTCC
+>BC25-6.1 feature_id:BC25
+CGAAGCAC
+>BC25-6.2 feature_id:BC25
+CGAAGCGC
+>BC25-6.3 feature_id:BC25
+CGAAGCTC
+>BC25-7.1 feature_id:BC25
+CGAAGCCA
+>BC25-7.2 feature_id:BC25
+CGAAGCCG
+>BC25-7.3 feature_id:BC25
+CGAAGCCT
+>BC37 feature_id:BC37
+TCAGTCGA
+>BC37-0.1 feature_id:BC37
+ACAGTCGA
+>BC37-0.2 feature_id:BC37
+CCAGTCGA
+>BC37-0.3 feature_id:BC37
+GCAGTCGA
+>BC37-1.1 feature_id:BC37
+TAAGTCGA
+>BC37-1.2 feature_id:BC37
+TGAGTCGA
+>BC37-1.3 feature_id:BC37
+TTAGTCGA
+>BC37-2.1 feature_id:BC37
+TCCGTCGA
+>BC37-2.2 feature_id:BC37
+TCGGTCGA
+>BC37-2.3 feature_id:BC37
+TCTGTCGA
+>BC37-3.1 feature_id:BC37
+TCAATCGA
+>BC37-3.2 feature_id:BC37
+TCACTCGA
+>BC37-3.3 feature_id:BC37
+TCATTCGA
+>BC37-4.1 feature_id:BC37
+TCAGACGA
+>BC37-4.2 feature_id:BC37
+TCAGCCGA
+>BC37-4.3 feature_id:BC37
+TCAGGCGA
+>BC37-5.1 feature_id:BC37
+TCAGTAGA
+>BC37-5.2 feature_id:BC37
+TCAGTGGA
+>BC37-5.3 feature_id:BC37
+TCAGTTGA
+>BC37-6.1 feature_id:BC37
+TCAGTCAA
+>BC37-6.2 feature_id:BC37
+TCAGTCCA
+>BC37-6.3 feature_id:BC37
+TCAGTCTA
+>BC37-7.1 feature_id:BC37
+TCAGTCGC
+>BC37-7.2 feature_id:BC37
+TCAGTCGG
+>BC37-7.3 feature_id:BC37
+TCAGTCGT
+>BC49 feature_id:BC49
+GACCAGCC
+>BC49-0.1 feature_id:BC49
+AACCAGCC
+>BC49-0.2 feature_id:BC49
+CACCAGCC
+>BC49-0.3 feature_id:BC49
+TACCAGCC
+>BC49-1.1 feature_id:BC49
+GCCCAGCC
+>BC49-1.2 feature_id:BC49
+GGCCAGCC
+>BC49-1.3 feature_id:BC49
+GTCCAGCC
+>BC49-2.1 feature_id:BC49
+GAACAGCC
+>BC49-2.2 feature_id:BC49
+GAGCAGCC
+>BC49-2.3 feature_id:BC49
+GATCAGCC
+>BC49-3.1 feature_id:BC49
+GACAAGCC
+>BC49-3.2 feature_id:BC49
+GACGAGCC
+>BC49-3.3 feature_id:BC49
+GACTAGCC
+>BC49-4.1 feature_id:BC49
+GACCCGCC
+>BC49-4.2 feature_id:BC49
+GACCGGCC
+>BC49-4.3 feature_id:BC49
+GACCTGCC
+>BC49-5.1 feature_id:BC49
+GACCAACC
+>BC49-5.2 feature_id:BC49
+GACCACCC
+>BC49-5.3 feature_id:BC49
+GACCATCC
+>BC49-6.1 feature_id:BC49
+GACCAGAC
+>BC49-6.2 feature_id:BC49
+GACCAGGC
+>BC49-6.3 feature_id:BC49
+GACCAGTC
+>BC49-7.1 feature_id:BC49
+GACCAGCA
+>BC49-7.2 feature_id:BC49
+GACCAGCG
+>BC49-7.3 feature_id:BC49
+GACCAGCT
+>BC50 feature_id:BC50
+CTCAAGGT
+>BC50-0.1 feature_id:BC50
+ATCAAGGT
+>BC50-0.2 feature_id:BC50
+GTCAAGGT
+>BC50-0.3 feature_id:BC50
+TTCAAGGT
+>BC50-1.1 feature_id:BC50
+CACAAGGT
+>BC50-1.2 feature_id:BC50
+CCCAAGGT
+>BC50-1.3 feature_id:BC50
+CGCAAGGT
+>BC50-2.1 feature_id:BC50
+CTAAAGGT
+>BC50-2.2 feature_id:BC50
+CTGAAGGT
+>BC50-2.3 feature_id:BC50
+CTTAAGGT
+>BC50-3.1 feature_id:BC50
+CTCCAGGT
+>BC50-3.2 feature_id:BC50
+CTCGAGGT
+>BC50-3.3 feature_id:BC50
+CTCTAGGT
+>BC50-4.1 feature_id:BC50
+CTCACGGT
+>BC50-4.2 feature_id:BC50
+CTCAGGGT
+>BC50-4.3 feature_id:BC50
+CTCATGGT
+>BC50-5.1 feature_id:BC50
+CTCAAAGT
+>BC50-5.2 feature_id:BC50
+CTCAACGT
+>BC50-5.3 feature_id:BC50
+CTCAATGT
+>BC50-6.1 feature_id:BC50
+CTCAAGAT
+>BC50-6.2 feature_id:BC50
+CTCAAGCT
+>BC50-6.3 feature_id:BC50
+CTCAAGTT
+>BC50-7.1 feature_id:BC50
+CTCAAGGA
+>BC50-7.2 feature_id:BC50
+CTCAAGGC
+>BC50-7.3 feature_id:BC50
+CTCAAGGG
+>BC73 feature_id:BC73
+CGCCGCAA
+>BC73-0.1 feature_id:BC73
+AGCCGCAA
+>BC73-0.2 feature_id:BC73
+GGCCGCAA
+>BC73-0.3 feature_id:BC73
+TGCCGCAA
+>BC73-1.1 feature_id:BC73
+CACCGCAA
+>BC73-1.2 feature_id:BC73
+CCCCGCAA
+>BC73-1.3 feature_id:BC73
+CTCCGCAA
+>BC73-2.1 feature_id:BC73
+CGACGCAA
+>BC73-2.2 feature_id:BC73
+CGGCGCAA
+>BC73-2.3 feature_id:BC73
+CGTCGCAA
+>BC73-3.1 feature_id:BC73
+CGCAGCAA
+>BC73-3.2 feature_id:BC73
+CGCGGCAA
+>BC73-3.3 feature_id:BC73
+CGCTGCAA
+>BC73-4.1 feature_id:BC73
+CGCCACAA
+>BC73-4.2 feature_id:BC73
+CGCCCCAA
+>BC73-4.3 feature_id:BC73
+CGCCTCAA
+>BC73-5.1 feature_id:BC73
+CGCCGAAA
+>BC73-5.2 feature_id:BC73
+CGCCGGAA
+>BC73-5.3 feature_id:BC73
+CGCCGTAA
+>BC73-6.1 feature_id:BC73
+CGCCGCCA
+>BC73-6.2 feature_id:BC73
+CGCCGCGA
+>BC73-6.3 feature_id:BC73
+CGCCGCTA
+>BC73-7.1 feature_id:BC73
+CGCCGCAC
+>BC73-7.2 feature_id:BC73
+CGCCGCAG
+>BC73-7.3 feature_id:BC73
+CGCCGCAT
+>BC74 feature_id:BC74
+ACCAGCCG
+>BC74-0.1 feature_id:BC74
+CCCAGCCG
+>BC74-0.2 feature_id:BC74
+GCCAGCCG
+>BC74-0.3 feature_id:BC74
+TCCAGCCG
+>BC74-1.1 feature_id:BC74
+AACAGCCG
+>BC74-1.2 feature_id:BC74
+AGCAGCCG
+>BC74-1.3 feature_id:BC74
+ATCAGCCG
+>BC74-2.1 feature_id:BC74
+ACAAGCCG
+>BC74-2.2 feature_id:BC74
+ACGAGCCG
+>BC74-2.3 feature_id:BC74
+ACTAGCCG
+>BC74-3.1 feature_id:BC74
+ACCCGCCG
+>BC74-3.2 feature_id:BC74
+ACCGGCCG
+>BC74-3.3 feature_id:BC74
+ACCTGCCG
+>BC74-4.1 feature_id:BC74
+ACCAACCG
+>BC74-4.2 feature_id:BC74
+ACCACCCG
+>BC74-4.3 feature_id:BC74
+ACCATCCG
+>BC74-5.1 feature_id:BC74
+ACCAGACG
+>BC74-5.2 feature_id:BC74
+ACCAGGCG
+>BC74-5.3 feature_id:BC74
+ACCAGTCG
+>BC74-6.1 feature_id:BC74
+ACCAGCAG
+>BC74-6.2 feature_id:BC74
+ACCAGCGG
+>BC74-6.3 feature_id:BC74
+ACCAGCTG
+>BC74-7.1 feature_id:BC74
+ACCAGCCA
+>BC74-7.2 feature_id:BC74
+ACCAGCCC
+>BC74-7.3 feature_id:BC74
+ACCAGCCT
