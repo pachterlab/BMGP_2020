@@ -1,0 +1,10 @@
+Name,Sequence 5’>3’,Comment
+PartialRead1,CTACACGACGCTCTTCCGATCT,Reverse primer for TAP-seq with 10X Genomics
+ISPCR,AAGCAGTGGTATCAACGCAGAGT,Reverse primer for TAP-seq with DropSeq
+Outer primer,[gene specific],Forward primer for TAP-seq PCR1
+Inner primer,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG[gene specific],Forward primer for TAP-seq PCR2
+CROPouter,AATGGACTATCATATGCTTACCGT,Forward primer for TAP-seq PCR1 targeting CROP Pol II transcript
+CROPinner,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGTGTGGAAAGGACGAAACACC,Forward primer for TAP-seq PCR2 targeting CROP Pol II transcript
+Targeted10X,AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTC*C*G,Forward primer for TAP-seq PCR3 with 10X Genomics, * thioate linkage between last three bases
+New-P5 smart PCR hybrid oligo,AATGATACGGCGACCACCGAGATCTACACGCCTGTCCGCGGAAGCAGTGGTATCAACGCAGAGT*A*C,Forward primer for TAP-seq with Drop-seq, * thioate linkage between last three bases
+Illumina reverse primer (N7XX),CAAGCAGAAGACGGCATACGAGAT[X]8GTCTCGTGGGCTCGG,[X]8 corresponds to the sample barcode (e.g. N701: TCGCCTTA, N702: CTAGTACG, etc.)

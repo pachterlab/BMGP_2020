@@ -1,0 +1,14 @@
+Experiment description,Figures,Cells,sgRNA libraries,Target gene panels,GEO identifers
+Whole-transcriptome reference datasets,1d-f, S3, S4,K562 dCas9-KRAB, 3T3, ESC, Primary Lung, Primary Neutrophils,N/A,N/A,GSM4266006, GSM4266008, GSM4266010
+Deeply sequenced TAP-Seq data,1c-f, S3, S4,K562 dCas9-KRAB, 3T3, ESC, Primary Lung, Primary Neutrophils,N/A,panel 1-3,GSM4265995, GSM4265998, GSM42660000, GSM4266002
+TAP-Seq based on DropSeq,S2b,c,K562 dCas9-KRAB,N/A,chr. 11 (panel 1),GSM4012680
+Whole-transcriptome DropSeq reference,S2b,c,K562 dCas9-KRAB,N/A,N/A,GSM4012683
+TAP-Seq dataset for evaluation of differential expression tests,2, S5-7,K562 dCas9-KRAB,Control library (10 promoters + 4 enhancers, 4gRNAs each),chr. 8 (panel 2),GSM4012688, GSM4012689
+Whole Tx dataset for evaluation of differential expression tests,2, S5-7,K562 dCas9-KRAB,Control library (10 promoters + 4 enhancers, 4gRNAs each),N/A,GSM4012690 - GSM4012693
+TAP-Seq screen for enhancers on chr. 8,3, S8,K562 dCas9-KRAB,Chr. 8 library (Table S2),chr. 8 (panel 2),GSM4012694 - GSM4012707
+TAP-Seq screen for enhancers on chr. 11,3, S8,K562 dCas9-KRAB,Chr. 11 library (Table S2),chr. 11 (panel 1),GSM4012708 - GSM4012720
+TAP-Seq for cell type identification in mouse bone marrow,4, S9,Mouse cKit+ and total bone marrow,N/A,Bone marrow panel,GSM4012684 - GSM4012687
+Whole Tx dataset for cell type identification in mouse bone marrow,4, S9,Mouse cKit+ and total bone marrow,N/A,N/A,GSE122465
+Initial test experiments (only included in figure 1c and S4a),1c, S4a,K562 dCas9-KRAB,N/A,chr. 11 (panel 1), chr. 8 (panel 2), Panel 1+2, Panel 1+2+AddOn,GSM4012674 - GSM4012679
+Primer pamel 2 redesign experiments,Note S1,K562 dCas9-KRAB,Control library (6 promoters + 4 enhancers, 4gRNAs each),chr. 8 (panel 2),GSM4266012, GSM4266014, GSM4266017
+L1000 panel,S10,K562 dCas9-KRAB,Control library (6 promoters + 4 enhancers, 4gRNAs each),L1000 panel,GSM4266004

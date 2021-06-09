@@ -1,0 +1,42 @@
+{
+    "accession": "SRR9916614",
+    "experiment": {
+        "accession": "SRX6665860",
+        "title": "NextSeq 500 paired end sequencing; GSM4012689: TASC_DIFFEX, sample 2; Homo sapiens; RNA-Seq",
+        "platform": "ILLUMINA",
+        "instrument": "NextSeq 500"
+    },
+    "study": {
+        "accession": "SRP217685",
+        "title": "Targeted single-cell transcriptome readouts for high-throughput genetics and functional genomics",
+        "abstract": "We show that targeted single-cell RNA-sequencing (TAP-seq) permits reliable mapping of cell (sub)types with as little as 100 reads per cell and reduces the sequencing costs for differential expression testing by a factor of 10-30, thereby enabling a cost-effective profiling of a large number of genotypes at the single cell level. We demonstrate the use of TAP-seq by generating comprehensive perturbation-based enhancer-target gene maps for 1.5% of the human genome. Overall design: The performance of targeted single-cell RNA-seq (TAP) was compared to whole transcriptome seq (WTX) in various scenarios (for detail, refer to sample description): - TAP_DEEP: Comparison of targeting panels, targeted seq (deeply sequenced) - WTX_REF: Unperturbed K562 reference, whole Tx - TAP_CT: Cell type mapping (mouse bone marrow panel), targeted seq. - WTX_CT: Cell type mapping, whole Tx - see series GSE122465 - TAP_DIFFEX: Dataset for evaluation of differential expression, targeted seq. - WTX_DIFFEX: Dataset for evaluation of differential expression, whole tx. - TAP_SCREEN: Enhancer screen on chromosome 8 and 11, targeted seq. Additional datasets (supplement only): - TAP_TAR: Initial test experiments - TAP_REDESIGN: Redesign of Targeting panel 2"
+    },
+    "sample": {
+        "accession": "SRS5225665",
+        "title": "TAP_DIFFEX, sample 2",
+        "organism": "Homo sapiens",
+        "attributes": {
+            "source_name": "K562 dCas9-KRAB",
+            "cell line": "K562 Cell line",
+            "targeting panel": "Chromosome 8 panel",
+            "perturbations": "Control perturbations",
+            "ENA-SPOT-COUNT": "41329080",
+            "ENA-BASE-COUNT": "3471642720",
+            "ENA-FIRST-PUBLIC": "2020-03-24",
+            "ENA-LAST-UPDATE": "2020-03-25"
+        }
+    },
+    "title": "NextSeq 500 paired end sequencing; GSM4012689: TASC_DIFFEX, sample 2; Homo sapiens; RNA-Seq",
+    "files": [
+        {
+            "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR991/004/SRR9916614/SRR9916614_1.fastq.gz",
+            "md5": "94b923c0a629058cc374879289f70c60",
+            "size": "815990487"
+        },
+        {
+            "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR991/004/SRR9916614/SRR9916614_2.fastq.gz",
+            "md5": "1fa1c974998d70a8d6f1fc286ff533ab",
+            "size": "1259156375"
+        }
+    ]
+}

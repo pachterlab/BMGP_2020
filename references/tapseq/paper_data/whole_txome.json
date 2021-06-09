@@ -1,0 +1,1190 @@
+{
+    "GSE122465": {
+        "accession": "GSE122465",
+        "studies": {
+            "SRP168425": {
+                "accession": "SRP168425",
+                "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow.",
+                "runs": {
+                    "SRR8181408": {
+                        "accession": "SRR8181408",
+                        "experiment": {
+                            "accession": "SRX5001402",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036118",
+                            "title": "Total Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "288879223",
+                                "ENA-BASE-COUNT": "35821023652",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/008/SRR8181408/SRR8181408_1.fastq.gz",
+                                "md5": "2ad90317035dc7694521e70cd6745cd2",
+                                "size": "1330240242"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/008/SRR8181408/SRR8181408_2.fastq.gz",
+                                "md5": "f32e74af4afd21664288314d28d6b66b",
+                                "size": "4378703731"
+                            }
+                        ]
+                    },
+                    "SRR8181409": {
+                        "accession": "SRR8181409",
+                        "experiment": {
+                            "accession": "SRX5001402",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036118",
+                            "title": "Total Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "288879223",
+                                "ENA-BASE-COUNT": "35821023652",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/009/SRR8181409/SRR8181409_1.fastq.gz",
+                                "md5": "2e8e3dc61d02df25e6929b2802afb443",
+                                "size": "1349660240"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/009/SRR8181409/SRR8181409_2.fastq.gz",
+                                "md5": "4a80ba571bfd25f7e983806785ca54b6",
+                                "size": "4419721539"
+                            }
+                        ]
+                    },
+                    "SRR8181410": {
+                        "accession": "SRR8181410",
+                        "experiment": {
+                            "accession": "SRX5001402",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036118",
+                            "title": "Total Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "288879223",
+                                "ENA-BASE-COUNT": "35821023652",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/000/SRR8181410/SRR8181410_1.fastq.gz",
+                                "md5": "4007c630a227388d883dd8e5062a9ebc",
+                                "size": "1315156863"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/000/SRR8181410/SRR8181410_2.fastq.gz",
+                                "md5": "59cd3eabbfe60c837780fa497546f1a9",
+                                "size": "4384517961"
+                            }
+                        ]
+                    },
+                    "SRR8181411": {
+                        "accession": "SRR8181411",
+                        "experiment": {
+                            "accession": "SRX5001402",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036118",
+                            "title": "Total Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "288879223",
+                                "ENA-BASE-COUNT": "35821023652",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466897: Total Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/001/SRR8181411/SRR8181411_1.fastq.gz",
+                                "md5": "0279f3f0e54ea247befd59d9e5e05c3e",
+                                "size": "1359700857"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/001/SRR8181411/SRR8181411_2.fastq.gz",
+                                "md5": "56adabc8ae13d8b0fef09bcb1145dfd9",
+                                "size": "4440424957"
+                            }
+                        ]
+                    },
+                    "SRR8181412": {
+                        "accession": "SRR8181412",
+                        "experiment": {
+                            "accession": "SRX5001403",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036119",
+                            "title": "Lin-Kit+ Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "188159202",
+                                "ENA-BASE-COUNT": "15805372968",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/002/SRR8181412/SRR8181412_1.fastq.gz",
+                                "md5": "907820d25626df284c204a48b3a089d5",
+                                "size": "834889566"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/002/SRR8181412/SRR8181412_2.fastq.gz",
+                                "md5": "3bbeec81ef0a269da1a1d08195c798ec",
+                                "size": "1746500173"
+                            }
+                        ]
+                    },
+                    "SRR8181413": {
+                        "accession": "SRR8181413",
+                        "experiment": {
+                            "accession": "SRX5001403",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036119",
+                            "title": "Lin-Kit+ Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "188159202",
+                                "ENA-BASE-COUNT": "15805372968",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/003/SRR8181413/SRR8181413_1.fastq.gz",
+                                "md5": "8d2a55ce3e81ebeeeed4dd76005217b0",
+                                "size": "815562940"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/003/SRR8181413/SRR8181413_2.fastq.gz",
+                                "md5": "364603ccb0946d3906be622f9e9cdebc",
+                                "size": "1749093399"
+                            }
+                        ]
+                    },
+                    "SRR8181414": {
+                        "accession": "SRR8181414",
+                        "experiment": {
+                            "accession": "SRX5001403",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036119",
+                            "title": "Lin-Kit+ Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "188159202",
+                                "ENA-BASE-COUNT": "15805372968",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/004/SRR8181414/SRR8181414_1.fastq.gz",
+                                "md5": "493a0bcf21a559d961a1b2c9694535b2",
+                                "size": "837345386"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/004/SRR8181414/SRR8181414_2.fastq.gz",
+                                "md5": "83aa19d0c9151f0b2c49187d0f0290a8",
+                                "size": "1765108889"
+                            }
+                        ]
+                    },
+                    "SRR8181415": {
+                        "accession": "SRR8181415",
+                        "experiment": {
+                            "accession": "SRX5001403",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036119",
+                            "title": "Lin-Kit+ Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "188159202",
+                                "ENA-BASE-COUNT": "15805372968",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466898: Lin-Kit+ Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/005/SRR8181415/SRR8181415_1.fastq.gz",
+                                "md5": "7b06d099e55d95eae1e900312c2adcd5",
+                                "size": "833690009"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/005/SRR8181415/SRR8181415_2.fastq.gz",
+                                "md5": "40a58d0dec9b7053e81e9697b24fb180",
+                                "size": "1761247275"
+                            }
+                        ]
+                    },
+                    "SRR8181416": {
+                        "accession": "SRR8181416",
+                        "experiment": {
+                            "accession": "SRX5001404",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036120",
+                            "title": "Lin-Cd45- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "243276860",
+                                "ENA-BASE-COUNT": "30166330640",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/006/SRR8181416/SRR8181416_1.fastq.gz",
+                                "md5": "4681aca2ddbee3ac10a3fa6988d2ecb9",
+                                "size": "1148684319"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/006/SRR8181416/SRR8181416_2.fastq.gz",
+                                "md5": "8af26a2de179c1be21c6182bef7da947",
+                                "size": "3770749944"
+                            }
+                        ]
+                    },
+                    "SRR8181417": {
+                        "accession": "SRR8181417",
+                        "experiment": {
+                            "accession": "SRX5001404",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036120",
+                            "title": "Lin-Cd45- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "243276860",
+                                "ENA-BASE-COUNT": "30166330640",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/007/SRR8181417/SRR8181417_1.fastq.gz",
+                                "md5": "e96dfb8a6524f69f688a0dc83fb9f7c6",
+                                "size": "1146820567"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/007/SRR8181417/SRR8181417_2.fastq.gz",
+                                "md5": "4abdf65152062517f083cd136dd7c6f6",
+                                "size": "3740195804"
+                            }
+                        ]
+                    },
+                    "SRR8181418": {
+                        "accession": "SRR8181418",
+                        "experiment": {
+                            "accession": "SRX5001404",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036120",
+                            "title": "Lin-Cd45- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "243276860",
+                                "ENA-BASE-COUNT": "30166330640",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/008/SRR8181418/SRR8181418_1.fastq.gz",
+                                "md5": "8928a384ad57383ff1edccc7ba56a8b2",
+                                "size": "1110981683"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/008/SRR8181418/SRR8181418_2.fastq.gz",
+                                "md5": "6c5462c2726013d13c99a4f40d7eefee",
+                                "size": "3698152082"
+                            }
+                        ]
+                    },
+                    "SRR8181419": {
+                        "accession": "SRR8181419",
+                        "experiment": {
+                            "accession": "SRX5001404",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036120",
+                            "title": "Lin-Cd45- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "243276860",
+                                "ENA-BASE-COUNT": "30166330640",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466899: Lin-Cd45- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/009/SRR8181419/SRR8181419_1.fastq.gz",
+                                "md5": "0af2d7147aed756ca7f7f26e98fdcd1c",
+                                "size": "1152109835"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/009/SRR8181419/SRR8181419_2.fastq.gz",
+                                "md5": "a6bc966f3d36ace17524fcf4f3c0da39",
+                                "size": "3748926731"
+                            }
+                        ]
+                    },
+                    "SRR8181420": {
+                        "accession": "SRR8181420",
+                        "experiment": {
+                            "accession": "SRX5001405",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036121",
+                            "title": "Lin-Cd45-Cd71- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "162639279",
+                                "ENA-BASE-COUNT": "25371727524",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/000/SRR8181420/SRR8181420_1.fastq.gz",
+                                "md5": "0b0f4260b4366de83b3711fcda64c1e7",
+                                "size": "741603583"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/000/SRR8181420/SRR8181420_2.fastq.gz",
+                                "md5": "925833eaedf3cb47c18095d1c1fa103e",
+                                "size": "3322157062"
+                            }
+                        ]
+                    },
+                    "SRR8181421": {
+                        "accession": "SRR8181421",
+                        "experiment": {
+                            "accession": "SRX5001405",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036121",
+                            "title": "Lin-Cd45-Cd71- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "162639279",
+                                "ENA-BASE-COUNT": "25371727524",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/001/SRR8181421/SRR8181421_1.fastq.gz",
+                                "md5": "ffffa5d72f3d0ec8e5e8ac7590c05e50",
+                                "size": "769666878"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/001/SRR8181421/SRR8181421_2.fastq.gz",
+                                "md5": "b7b4d76dee798e089120e6345f5e19d7",
+                                "size": "3360092384"
+                            }
+                        ]
+                    },
+                    "SRR8181422": {
+                        "accession": "SRR8181422",
+                        "experiment": {
+                            "accession": "SRX5001405",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036121",
+                            "title": "Lin-Cd45-Cd71- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "162639279",
+                                "ENA-BASE-COUNT": "25371727524",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/002/SRR8181422/SRR8181422_1.fastq.gz",
+                                "md5": "29f9289cf1a90f48e4c6c9bd34517945",
+                                "size": "745013439"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/002/SRR8181422/SRR8181422_2.fastq.gz",
+                                "md5": "d1ac10ba31f7ffdb37872b0c7edb8e04",
+                                "size": "3286519723"
+                            }
+                        ]
+                    },
+                    "SRR8181423": {
+                        "accession": "SRR8181423",
+                        "experiment": {
+                            "accession": "SRX5001405",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036121",
+                            "title": "Lin-Cd45-Cd71- Bone Marrow",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, supernatant",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "162639279",
+                                "ENA-BASE-COUNT": "25371727524",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466900: Lin-Cd45-Cd71- Bone Marrow; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/003/SRR8181423/SRR8181423_1.fastq.gz",
+                                "md5": "f9368125690235712ff1af91770554ee",
+                                "size": "723744412"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/003/SRR8181423/SRR8181423_2.fastq.gz",
+                                "md5": "d242f0fc98e2f23ddeb1fa547435b34f",
+                                "size": "3206844361"
+                            }
+                        ]
+                    },
+                    "SRR8181424": {
+                        "accession": "SRR8181424",
+                        "experiment": {
+                            "accession": "SRX5001406",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036122",
+                            "title": "Lin-CD45-Cd71- Bone-associated fraction",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone chips",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, bone chips",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "143835637",
+                                "ENA-BASE-COUNT": "22438359372",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/004/SRR8181424/SRR8181424_1.fastq.gz",
+                                "md5": "025a2097556a36dee39b5fc3c2469c92",
+                                "size": "660157680"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/004/SRR8181424/SRR8181424_2.fastq.gz",
+                                "md5": "645ad7cd7f2401d899da054ea0960197",
+                                "size": "2937806456"
+                            }
+                        ]
+                    },
+                    "SRR8181425": {
+                        "accession": "SRR8181425",
+                        "experiment": {
+                            "accession": "SRX5001406",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036122",
+                            "title": "Lin-CD45-Cd71- Bone-associated fraction",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone chips",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, bone chips",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "143835637",
+                                "ENA-BASE-COUNT": "22438359372",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/005/SRR8181425/SRR8181425_1.fastq.gz",
+                                "md5": "e2f595720fa957b1cbc8928b6528dc72",
+                                "size": "681665634"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/005/SRR8181425/SRR8181425_2.fastq.gz",
+                                "md5": "52c9ce196a3ed9c44091bbd3918a7bd7",
+                                "size": "2956639208"
+                            }
+                        ]
+                    },
+                    "SRR8181426": {
+                        "accession": "SRR8181426",
+                        "experiment": {
+                            "accession": "SRX5001406",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036122",
+                            "title": "Lin-CD45-Cd71- Bone-associated fraction",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone chips",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, bone chips",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "143835637",
+                                "ENA-BASE-COUNT": "22438359372",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/006/SRR8181426/SRR8181426_1.fastq.gz",
+                                "md5": "91beca1f93b171db21a6745cbc115dd3",
+                                "size": "662247929"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/006/SRR8181426/SRR8181426_2.fastq.gz",
+                                "md5": "a766d5d3f4b8bc1cb2c8cf4c9165c39e",
+                                "size": "2900921374"
+                            }
+                        ]
+                    },
+                    "SRR8181427": {
+                        "accession": "SRR8181427",
+                        "experiment": {
+                            "accession": "SRX5001406",
+                            "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS4036122",
+                            "title": "Lin-CD45-Cd71- Bone-associated fraction",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Bone chips",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone crushing, bone chips",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "143835637",
+                                "ENA-BASE-COUNT": "22438359372",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3466901: Lin-CD45-Cd71- Bone-associated fraction; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/007/SRR8181427/SRR8181427_1.fastq.gz",
+                                "md5": "6cf6eb92a08e008e7711d714779e7a6e",
+                                "size": "648112723"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR818/007/SRR8181427/SRR8181427_2.fastq.gz",
+                                "md5": "1f53154425146923be7731638ea11583",
+                                "size": "2851809330"
+                            }
+                        ]
+                    },
+                    "SRR9667885": {
+                        "accession": "SRR9667885",
+                        "experiment": {
+                            "accession": "SRX6428476",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083725",
+                            "title": "Lin-CD45-Cd71- Flushed, non-digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "194625967",
+                                "ENA-BASE-COUNT": "16348581228",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/005/SRR9667885/SRR9667885_1.fastq.gz",
+                                "md5": "bae360442de15a58d8c5443a4962312c",
+                                "size": "849996579"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/005/SRR9667885/SRR9667885_2.fastq.gz",
+                                "md5": "ed3a506522ed02c84db9b7580aee394c",
+                                "size": "2044545822"
+                            }
+                        ]
+                    },
+                    "SRR9667886": {
+                        "accession": "SRR9667886",
+                        "experiment": {
+                            "accession": "SRX6428476",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083725",
+                            "title": "Lin-CD45-Cd71- Flushed, non-digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "194625967",
+                                "ENA-BASE-COUNT": "16348581228",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/006/SRR9667886/SRR9667886_1.fastq.gz",
+                                "md5": "c1cb832f112f1edec158ac06b948f45d",
+                                "size": "949353378"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/006/SRR9667886/SRR9667886_2.fastq.gz",
+                                "md5": "0cb13eeb5c1e1d172f7ba8fc8d11725d",
+                                "size": "2251872331"
+                            }
+                        ]
+                    },
+                    "SRR9667887": {
+                        "accession": "SRR9667887",
+                        "experiment": {
+                            "accession": "SRX6428476",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083725",
+                            "title": "Lin-CD45-Cd71- Flushed, non-digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "194625967",
+                                "ENA-BASE-COUNT": "16348581228",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/007/SRR9667887/SRR9667887_1.fastq.gz",
+                                "md5": "4f8daee28fef969c6d7300b60d27cd7d",
+                                "size": "910850307"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/007/SRR9667887/SRR9667887_2.fastq.gz",
+                                "md5": "be8165695692b65b2b17a0a67678517d",
+                                "size": "2139605767"
+                            }
+                        ]
+                    },
+                    "SRR9667888": {
+                        "accession": "SRR9667888",
+                        "experiment": {
+                            "accession": "SRX6428476",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083725",
+                            "title": "Lin-CD45-Cd71- Flushed, non-digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "No",
+                                "ENA-SPOT-COUNT": "194625967",
+                                "ENA-BASE-COUNT": "16348581228",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937216: Lin-CD45-Cd71- Flushed, non-digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/008/SRR9667888/SRR9667888_1.fastq.gz",
+                                "md5": "61cf6ae92269decebb489251c11aeb3a",
+                                "size": "944978940"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/008/SRR9667888/SRR9667888_2.fastq.gz",
+                                "md5": "afe95b3a8c26373eae28b7493aeed301",
+                                "size": "2207148594"
+                            }
+                        ]
+                    },
+                    "SRR9667889": {
+                        "accession": "SRR9667889",
+                        "experiment": {
+                            "accession": "SRX6428477",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083724",
+                            "title": "Lin-CD45-Cd71- Flushed, digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "180932728",
+                                "ENA-BASE-COUNT": "15198349152",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/009/SRR9667889/SRR9667889_1.fastq.gz",
+                                "md5": "186159bde9bc7566cc90462d9bc54caf",
+                                "size": "805793057"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/009/SRR9667889/SRR9667889_2.fastq.gz",
+                                "md5": "b012d2b03388144d71399aa522dd6a2b",
+                                "size": "1902001310"
+                            }
+                        ]
+                    },
+                    "SRR9667890": {
+                        "accession": "SRR9667890",
+                        "experiment": {
+                            "accession": "SRX6428477",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083724",
+                            "title": "Lin-CD45-Cd71- Flushed, digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "180932728",
+                                "ENA-BASE-COUNT": "15198349152",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/000/SRR9667890/SRR9667890_1.fastq.gz",
+                                "md5": "26b231ea8964d67866d020d4cc331572",
+                                "size": "900576178"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/000/SRR9667890/SRR9667890_2.fastq.gz",
+                                "md5": "35aa4bef44d5628b865b4ed412138a4f",
+                                "size": "2097695811"
+                            }
+                        ]
+                    },
+                    "SRR9667891": {
+                        "accession": "SRR9667891",
+                        "experiment": {
+                            "accession": "SRX6428477",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083724",
+                            "title": "Lin-CD45-Cd71- Flushed, digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "180932728",
+                                "ENA-BASE-COUNT": "15198349152",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/001/SRR9667891/SRR9667891_1.fastq.gz",
+                                "md5": "a861bb610ac7f971dbd978c5a30fbfc5",
+                                "size": "862914757"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/001/SRR9667891/SRR9667891_2.fastq.gz",
+                                "md5": "443c26ff59239874fcc265bd32c3694d",
+                                "size": "1989009166"
+                            }
+                        ]
+                    },
+                    "SRR9667892": {
+                        "accession": "SRR9667892",
+                        "experiment": {
+                            "accession": "SRX6428477",
+                            "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                            "platform": "ILLUMINA",
+                            "instrument": "NextSeq 500"
+                        },
+                        "study": {
+                            "accession": "SRP168425",
+                            "title": "Single-cell RNA-seq of frequent and rare populations in mouse bone marrow",
+                            "abstract": "This data set contains single-cell RNA sequencing data of mature immune cells, hematopoietic and immune progenitors, mesenchymal cells (CAR cells, fibroblasts, osteoblasts, chondrocytes, putative mesenchymal stem cells), endothelia, smooth muscle, and Schwann cells. Overall design: The following fractions were subjected to single-cell RNA-sequencing using 10x genomics: Total live bone marrow; Lineage-negative CD45-negative bone marrow; Lineage-CD45-CD71- bone marrow (obtained by crushing or flushing of bones); Lineage-CD45-CD71- bone-associated fraction (obtained by digesting bone chips); Lineage-Kit+ bone marrow."
+                        },
+                        "sample": {
+                            "accession": "SRS5083724",
+                            "title": "Lin-CD45-Cd71- Flushed, digested",
+                            "organism": "Mus musculus",
+                            "attributes": {
+                                "source_name": "Flushed bone marrow",
+                                "strain": "C57BL/6",
+                                "bm isolation": "Bone flushing",
+                                "digestion": "Yes",
+                                "ENA-SPOT-COUNT": "180932728",
+                                "ENA-BASE-COUNT": "15198349152",
+                                "ENA-FIRST-PUBLIC": "2019-08-09",
+                                "ENA-LAST-UPDATE": "2019-08-10"
+                            }
+                        },
+                        "title": "NextSeq 500 paired end sequencing; GSM3937217: Lin-CD45-Cd71- Flushed, digested; Mus musculus; RNA-Seq",
+                        "files": [
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/002/SRR9667892/SRR9667892_1.fastq.gz",
+                                "md5": "6441f85068e8667e038b718c09f2a273",
+                                "size": "896621969"
+                            },
+                            {
+                                "url": "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR966/002/SRR9667892/SRR9667892_2.fastq.gz",
+                                "md5": "ff1783170cb25e15702d1da927b5e400",
+                                "size": "2056208676"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
