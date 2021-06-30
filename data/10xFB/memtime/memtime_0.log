@@ -1,0 +1,23 @@
+	Command being timed: "kb count -i BMGP_2020/references/10xFB/kite/features.idx -g BMGP_2020/references/10xFB/kite/f2b.txt -x 10xv3 -o kite_out --workflow kite:10xFB --h5ad --filter bustools fastqs/5k_pbmc_protein_v3_antibody_S2_L001_R1_001.fastq.gz fastqs/5k_pbmc_protein_v3_antibody_S2_L001_R2_001.fastq.gz fastqs/5k_pbmc_protein_v3_antibody_S2_L002_R1_001.fastq.gz fastqs/5k_pbmc_protein_v3_antibody_S2_L002_R2_001.fastq.gz"
+	User time (seconds): 382.65
+	System time (seconds): 27.44
+	Percent of CPU this job got: 272%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:30.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 4196132
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 6798865
+	Voluntary context switches: 1083
+	Involuntary context switches: 62590
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 9813208
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
