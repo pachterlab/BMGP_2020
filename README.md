@@ -1,30 +1,23 @@
-# kITE repo
+## repro-repo
 
 ```sh
 .
 ├── analysis
 │   ├── notebooks
-│   │   ├── 10xCRISPR
-│   │   ├── 10xFB
-│   │   ├── cellhash
-│   │   ├── clicktag
-│   │   ├── multiseq
-│   │   ├── tapseq
-│   │   └── time.ipynb
 │   └── scripts
-│       ├── cellranger-6.0.1.tar.gz
-│       └── CITE-seq-Count
 ├── data
 │   ├── 10xCRISPR
-│   ├── 10xFB_5k_pbmc_v3
+│   ├── 10xFB
 │   ├── cellhash
 │   ├── clicktag
 │   ├── multiseq
 │   └── tapseq
 ├── figures
+│   └── README.md
+├── README.md
 └── references
     ├── 10xCRISPR
-    ├── 10xFB_5k_pbmc_v3
+    ├── 10xFB
     ├── cellhash
     ├── clicktag
     ├── multiseq
