@@ -1,0 +1,23 @@
+	Command being timed: "./cellranger-6.0.1/cellranger multi --csv BMGP_2020/references/10xCRISPR/feat.csv --id count --disable-ui"
+	User time (seconds): 49770.11
+	System time (seconds): 3608.72
+	Percent of CPU this job got: 1405%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:03:18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 15237456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1942
+	Minor (reclaiming a frame) page faults: 1073965695
+	Voluntary context switches: 136517667
+	Involuntary context switches: 33487595
+	Swaps: 0
+	File system inputs: 70721056
+	File system outputs: 214718712
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
