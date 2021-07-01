@@ -1,0 +1,23 @@
+	Command being timed: "CITE-seq-Count -R1 fastqs/NSC_Fixed_S2_L001_R1_001.fastq.gz -R2 fastqs/NSC_Fixed_S2_L001_R2_001.fastq.gz --no_umi_correction -t BMGP_2020/references/clicktag/cite_seq_barcodes.csv -wl BMGP_2020/references/whitelist_10xv2.txt -cbf 1 -cbl 16 -umif 17 -umil 26 -cells 21000 --start-trim 28 -o ./cite_seq_out"
+	User time (seconds): 7651.70
+	System time (seconds): 275.54
+	Percent of CPU this job got: 216%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:00:58
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 6488268
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 19
+	Minor (reclaiming a frame) page faults: 35679872
+	Voluntary context switches: 246249
+	Involuntary context switches: 1730161
+	Swaps: 0
+	File system inputs: 30232
+	File system outputs: 46288
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
